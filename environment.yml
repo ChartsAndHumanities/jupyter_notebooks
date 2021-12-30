@@ -1,0 +1,21 @@
+name: alex_env
+channels:
+  - defaults
+dependencies:
+  - statsmodels
+  - tabulate
+  - pandas
+  - numpy
+  - ipykernel
+  - jupyter
+  - matplotlib
+  - seaborn
+  - nodejs
+  - pypdf2
+  - pyinstaller
+  - git
+  - gitpython
+  - tk
+  - openpyxl
+  - dataframe_image
+prefix: C:\Users\FREE\miniconda3\envs\alex_env
